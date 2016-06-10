@@ -178,13 +178,6 @@
     <None Include="bin\Images\50n.png" />
     <None Include="bin\Images\NA.png" />
     <None Include="bin\Images\wind.png" />
-    <Content Include="WeatherDatabase.mdf">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
-    <Content Include="WeatherDatabase_log.ldf">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-      <DependentUpon>WeatherDatabase.mdf</DependentUpon>
-    </Content>
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">

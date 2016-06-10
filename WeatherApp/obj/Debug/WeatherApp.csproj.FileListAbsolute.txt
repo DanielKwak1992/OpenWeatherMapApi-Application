@@ -8,8 +8,6 @@ D:\Users\Daniel\Documents\Code\Visual Studio\Euromoney\Weatherapp\WeatherApp\Wea
 D:\Users\Daniel\Documents\Code\Visual Studio\Euromoney\Weatherapp\WeatherApp\WeatherApp\obj\Debug\WeatherApp.csproj.GenerateResource.Cache
 D:\Users\Daniel\Documents\Code\Visual Studio\Euromoney\Weatherapp\WeatherApp\WeatherApp\obj\Debug\WeatherApp.exe
 D:\Users\Daniel\Documents\Code\Visual Studio\Euromoney\Weatherapp\WeatherApp\WeatherApp\obj\Debug\WeatherApp.pdb
-D:\Users\Daniel\Documents\Code\Visual Studio\Euromoney\Weatherapp\WeatherApp\WeatherApp\bin\Debug\WeatherDatabase.mdf
-D:\Users\Daniel\Documents\Code\Visual Studio\Euromoney\Weatherapp\WeatherApp\WeatherApp\bin\Debug\WeatherDatabase_log.ldf
 D:\Users\Daniel\Documents\Code\Visual Studio\Euromoney\Weatherapp\WeatherApp\WeatherApp\bin\Debug\EntityFramework.dll
 D:\Users\Daniel\Documents\Code\Visual Studio\Euromoney\Weatherapp\WeatherApp\WeatherApp\bin\Debug\EntityFramework.SqlServer.dll
 D:\Users\Daniel\Documents\Code\Visual Studio\Euromoney\Weatherapp\WeatherApp\WeatherApp\bin\Debug\EntityFramework.xml

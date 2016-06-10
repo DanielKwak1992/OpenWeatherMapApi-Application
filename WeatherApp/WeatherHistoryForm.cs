@@ -1,11 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
 using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Data.SqlClient;
 
@@ -13,6 +7,7 @@ namespace WeatherApp
 {
     public partial class WeatherHistoryForm : Form
     {
+
         //init data control and sql connection
         DataSet ds = new DataSet();
         SqlConnection cs1 = new SqlConnection(@"Data Source=Daniel-MSI;Initial Catalog=WeatherDatabase;User ID=sa;Password=1234");
@@ -23,6 +18,7 @@ namespace WeatherApp
         {
             InitializeComponent();
         }
+
         private void WeatherHistoryForm_Load(object sender, EventArgs e)
         {
             //update table on load
